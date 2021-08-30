@@ -1,6 +1,6 @@
-# time-tracker
+# test-java
 Java (Maven) application for tracking time on the job
 
-Time tracker
+Test-java
 
-Good Morning My Dear Students!!!
+Good Evening My Dear Students!!!
